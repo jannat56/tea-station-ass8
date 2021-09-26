@@ -5,8 +5,8 @@ const Header = () => {
     return (
         <div className='header'>
             <h1>This Is Your Fav Tea Stations</h1>
-            <p>we provide best qualities of teas world!!!</p>
-            <h3>Total Budget : 100 Million</h3>
+            <p>we provide best qualities !!!</p>
+            <h3>Total Budget : 10000 Gram</h3>
         </div>
     );
 };

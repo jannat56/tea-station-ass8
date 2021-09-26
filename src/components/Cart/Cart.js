@@ -15,6 +15,11 @@ const Cart = (props) => {
                 <h3>item: {props.cart.length}</h3> 
                 <h3>Total: {total} gm</h3>
                 <h3>Tea name: </h3>
+                <ul>
+                    {
+                        cart.map(tea => <li>{tea.tea}</li>)
+                    }
+                </ul>
                 
                
         </div>
