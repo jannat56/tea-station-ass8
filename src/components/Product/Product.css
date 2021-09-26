@@ -1,0 +1,14 @@
+.image img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
+
+.btn-regular {
+    background-color: chartreuse;
+    width: 120px;
+    height: 30px;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
